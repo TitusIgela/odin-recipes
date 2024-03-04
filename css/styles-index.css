@@ -1,20 +1,18 @@
 body{
     font-family: 'Courier New', Courier, monospace;
     font-size: 22px;
-
 }
 
-
-
-h1 {
-    background: rgb(26, 59, 243);
+#heading{
+    background: rgb(207, 221, 7);
     text-align: center;
     color: rgb(0, 0, 0);
     font-size: 60px;
-    font-weight: small;
-    font-family: cursive;
+    font-weight: 100;
 }
 
-li a {
-    color: black;
+.list{
+    color: #000;
+
 }
+

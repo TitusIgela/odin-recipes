@@ -13,7 +13,7 @@ The projects is about creating a website to demonstrate my knowledge on Html and
 
 
 
-1. Html
+2. Html
     - Create new pages with boilerplate
     - Use different elements 
         - links

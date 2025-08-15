@@ -1,0 +1,64 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    /* outline: red solid 1px; */
+}
+
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif  ;
+    font-size: 16px;
+    background-color: rgba(234, 236, 216, 0.596);
+    color: rgb(46, 18, 99);
+}
+
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.title {
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px 0;
+    font-size: 40px;
+    color: rgb(103, 161, 184);
+}
+
+.nav {
+    padding: 20px;
+    margin-bottom: 20px;
+    font-size: 25px;
+    background-color: #89b0c0;
+}
+
+.nav a {
+    text-decoration: none;
+}
+
+.img {
+    margin-bottom: 40px;
+}
+
+.description {
+    margin-bottom: 20px;
+}
+
+
+h2 {
+    font-size: 30px;
+    margin: 40px 0;
+    color: blueviolet;
+    background-color: rgb(126, 126, 126);
+    padding: 28px;
+
+}
